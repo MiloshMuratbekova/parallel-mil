@@ -1,0 +1,48 @@
+# Скомпилированные файлы
+task2/task2
+task3/task3
+task4/task4
+
+# Объектные файлы
+*.o
+*.obj
+
+# Исполняемые файлы
+*.exe
+*.out
+*.app
+
+# CUDA файлы
+*.cubin
+*.ptx
+*.fatbin
+
+# Файлы отладки
+*.dSYM/
+*.pdb
+
+# IDE файлы
+.vscode/
+.idea/
+*.sublime-*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Временные файлы
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Логи
+*.log
