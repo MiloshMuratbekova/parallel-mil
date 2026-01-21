@@ -2,6 +2,7 @@
 task2/task2
 task3/task3
 task4/task4
+vector_add
 
 # Объектные файлы
 *.o
@@ -40,9 +41,10 @@ Desktop.ini
 
 # Временные файлы
 *.tmp
-*.temp
+*.temp``
 *.swp
 *.swo
+*.exe
 
 # Логи
 *.log
